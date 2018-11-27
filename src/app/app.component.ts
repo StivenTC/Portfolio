@@ -6,5 +6,8 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.sass']
 })
 export class AppComponent {
-  title = 'Portfolio';
+  shortName = 'Stiven Tovar';
+  rol = 'Frontend Junior developer';
+  longName = 'Brayan Stiven Tovar Claros';
 }
+
